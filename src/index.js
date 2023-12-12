@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <GlobalStyles />
-        <BrowserRouter basename="/water-tracker">
+        <BrowserRouter basename="/node_front_fs_81_Eugeshakw">
           <ModalProvider>
             <App />
           </ModalProvider>
