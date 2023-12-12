@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/node_front_fs_81_Eugeshakw/static/css/main.533e765b.css",
-    "main.js": "/node_front_fs_81_Eugeshakw/static/js/main.7bcd0396.js",
+    "main.js": "/node_front_fs_81_Eugeshakw/static/js/main.731e41bc.js",
     "static/media/ars.png": "/node_front_fs_81_Eugeshakw/static/media/ars.a446db0023c7a1c8c587.png",
     "static/media/bottle-desk.png": "/node_front_fs_81_Eugeshakw/static/media/bottle-desk.f101329f2fabf31caa2d.png",
     "static/media/ForgotPassPageImgTab.png": "/node_front_fs_81_Eugeshakw/static/media/ForgotPassPageImgTab.60ad62f90ee53105bc9b.png",
@@ -38,10 +38,10 @@
     "static/media/button_svg.svg": "/node_front_fs_81_Eugeshakw/static/media/button_svg.90322daa098e22b0e3fac4d9cfe108f2.svg",
     "static/media/marker_item.svg": "/node_front_fs_81_Eugeshakw/static/media/marker_item.fddb539b56ea3011c50a91ee6d888f28.svg",
     "main.533e765b.css.map": "/node_front_fs_81_Eugeshakw/static/css/main.533e765b.css.map",
-    "main.7bcd0396.js.map": "/node_front_fs_81_Eugeshakw/static/js/main.7bcd0396.js.map"
+    "main.731e41bc.js.map": "/node_front_fs_81_Eugeshakw/static/js/main.731e41bc.js.map"
   },
   "entrypoints": [
     "static/css/main.533e765b.css",
-    "static/js/main.7bcd0396.js"
+    "static/js/main.731e41bc.js"
   ]
 }
