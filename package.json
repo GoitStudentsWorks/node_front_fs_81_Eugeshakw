@@ -2,7 +2,7 @@
   "name": "water-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Eugeshakw.github.io/water-tracker/",
+  "homepage": "https://Eugeshakw.github.io/node_front_fs_81_Eugeshakw/",
   "type": "module",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
